@@ -67,3 +67,5 @@
 ## :mailbox:ช่องทางติดต่อ
 - https://github.com/thorntep
 - https://www.instagram.com/que.su.111/
+
+----
