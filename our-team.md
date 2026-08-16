@@ -1,6 +1,6 @@
 # :pushpin:ชื่อ: จ๋อม(นายปณชัย ตีรถะ)
 ###  ID: 69130500108
-<div align="cneter"> <img width="324" height="576" alt="" src="picture/jom.jpg" /></div>
+<div align="center"> <img width="324" height="576" alt="" src="picture/jom.jpg" /></div>
 
 ----
 
@@ -10,10 +10,10 @@
 ## *:balloon:งานอดิเรกคืออะไร*
 - เล่นเกม🎮 , ฟังเพลง🎧
 
-## *:medalmilitary:คิดว่าsoft-skillของตัวเองคืออะไร*
+## *:medal_military:คิดว่าsoft-skillของตัวเองคืออะไร*
 - การปรับตัว ยืดหยุ่นเมื่อเจอเรื่องเปลี่ยนแปลงหรืออุปสรรค
 
-## *:earthamericas:มีเรื่องอะไรที่อยากลองทำสักครั้งในชีวิตไหม*
+## *:earth_americas:มีเรื่องอะไรที่อยากลองทำสักครั้งในชีวิตไหม*
 - อยากลองเรียน Scuba Diving 🤿🪸 เพื่อเอาชนะความกลัวตอนเด็ก
 
 ## *:mailbox:ช่องทางการติดต่อ*
