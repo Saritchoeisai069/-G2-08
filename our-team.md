@@ -71,7 +71,7 @@
 ----
  :pushpin:ชื่อ: เศรษฐศาสตร์ ศิริโกมลสิงห์
  ID: 69130500067
-![SAFE](B7EFC4A4-BD30-4BBA-9113-F866936116B1.jpeg)
+![SAFE](picture/008D28C1-F3D8-4A00-BFA4-6336AFC2704A.jpeg)
 
 ￼
 
