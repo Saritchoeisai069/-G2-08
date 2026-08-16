@@ -10,10 +10,10 @@
 :balloon:งานอดิเรกคืออะไร
 •  นอน,เล่นเกม
 
-*:medalmilitary:คิดว่าsoft-skillของตัวเองคืออะไร
+*:medal_military:คิดว่าsoft-skillของตัวเองคืออะไร
 •  problem solving, adaptability
 
-:earthamericas:มีเรื่องอะไรที่อยากลองทำสักครั้งในชีวิตไหม*
+:earth_americas:มีเรื่องอะไรที่อยากลองทำสักครั้งในชีวิตไหม*
 •  อยากลองไปเข้าห้องน้ำทั่วโลก
 
 :mailbox:ช่องทางติดต่อ
