@@ -31,8 +31,8 @@
 - เที่ยวรอบโลกโดยไม่นั่งเครื่องบิน เพราะคิดว่าประสบการณ์ระหว่างการเดินทางที่ไม่ใช่แค่นั่งเครื่องบินจะมีความรู้สึกที่แตกต่างออกไป
 
 ## :mailbox: *ช่องทางติดต่อ*
-- github:[@Sarit](https://github.com/Saritchoeisai069)
-- ig:[Poomjai](https://www.instagram.com/kagigaki/?utm_source=ig_web_button_share_sheet)
+- Github : [@Poomjai](https://github.com/Saritchoeisai069)
+- Instagram : [Poomjai](https://www.instagram.com/kagigaki/?utm_source=ig_web_button_share_sheet)
 
 ----
 
@@ -55,8 +55,8 @@
 - อยากลอง Skydiving สักครั้งในชีวิต เพื่อก้าวออกจาก Comfort Zone และสร้างความทรงจำสุดพิเศษให้กับตัวเอง
 
 ## *:mailbox:ช่องทางติดต่อ*
-- Github: https://github.com/rawisaradesign
-- IG:https://www.instagram.com/designdrj?igsh=MWhqaHd4YjdpdGpuZw==
+- Github : [@Disign](https://github.com/rawisaradesign)
+- Instagram : [Disign](https://www.instagram.com/designdrj?igsh=MWhqaHd4YjdpdGpuZw==)
 
 ----
 
@@ -70,7 +70,7 @@
 - บ่อพลอยรัชดาภิเษก
 
 ## *:balloon:งานอดิเรกคืออะไร*
-- เล่นเกม:video_game: , ฟังเพลง:musical_note: , เล่นกีฬา:football:
+- เล่นเกม :video_game: , ฟังเพลง:musical_note: , เล่นกีฬา:football:
 
 ## *:medal_military:คิดว่าsoft-skillของตัวเองคืออะไร*
 - คิดออกแบบ คุยกับคนอื่นได้
@@ -79,8 +79,8 @@
 - กระโดดร่ม เพราะว่าอยากลองทำอะไรใหม่ๆที่ท้าทายตัวเอง 🛫
 
 ## *:mailbox:ช่องทางติดต่อ*
-- Github: https://github.com/gamezxkx
-- IG: https://www.instagram.com/gxmxk._zx?igsh=MTJqZ3Bma3BlbjA4MA%3D%3D&utm_source=qr
+- Github : [@Game](https://github.com/gamezxkx)
+- Instagram : [Game](https://www.instagram.com/gxmxk._zx?igsh=MTJqZ3Bma3BlbjA4MA%3D%3D&utm_source=qr)
 
 ----
 
@@ -103,8 +103,8 @@
 - อยากลองเรียน Scuba Diving 🤿🪸 เพื่อเอาชนะความกลัวตอนเด็ก
 
 ## *:mailbox:ช่องทางการติดต่อ*
-- GitHub : https://github.com/Helloworld-1412
-- Instagram : https://www.instagram.com/qwea7074?igsh=aDk0Y2VnOTl2NDl6&utm_source=q
+- GitHub : [@Jom](https://github.com/Helloworld-1412)
+- Instagram : [Jom](https://www.instagram.com/qwea7074?igsh=aDk0Y2VnOTl2NDl6&utm_source=q)
 
 ----
 
@@ -127,8 +127,8 @@
 - อยากลองโดดร่มสักครั้งในชีวิต ชอบอะไรที่มันตื่นเต้นสนุกและท้าทาย
 
 ## *:mailbox:ช่องทางติดต่อ*
-- https://github.com/thorntep
-- https://www.instagram.com/que.su.111/
+- Github : [@Sek](https://github.com/thorntep)
+- Instagram : [Sek](https://www.instagram.com/que.su.111/)
 
 ----
 
@@ -151,8 +151,8 @@
 •  อยากลองไปเข้าห้องน้ำทั่วโลก
 
 ## *:mailbox:ช่องทางติดต่อ*
-- Github : https://l.instagram.com/?u=https%3A%2F%2Fgithub.com%2FSetthasat&e=AUCF2KmMf4tOhABAlEkZ1TzmiXHua7mqPTPoCfOVzj4mRjaB8SLlzxbNlmq2jwhPZUttGN-VOelL6JJVDZNgpCuQPEy2hnBfcu4xAgoVFkTmCRkyCOh31nJmLxx0
-- instagram : https://www.instagram.com/stthsxs_?igsh=MXhtbng0eXpjOWgxNA==
+- Github : [@Safe](https://l.instagram.com/?u=https%3A%2F%2Fgithub.com%2FSetthasat&e=AUCF2KmMf4tOhABAlEkZ1TzmiXHua7mqPTPoCfOVzj4mRjaB8SLlzxbNlmq2jwhPZUttGN-VOelL6JJVDZNgpCuQPEy2hnBfcu4xAgoVFkTmCRkyCOh31nJmLxx0)
+- Instagram : [Safe](https://www.instagram.com/stthsxs_?igsh=MXhtbng0eXpjOWgxNA==)
 
 ----
 
