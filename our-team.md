@@ -14,7 +14,7 @@
 
 # :pushpin:ชื่อ: ภูมิใจ (นายสฤษดิ์ เฉยไสย)
 ###  ID: 69130500069
-![poom](https://github.com/Saritchoeisai069/-G2-08/blob/046b1c752329749f2f116e78b5f3c82476a8a141/7790cf97-7fc2-4e07-928a-e183336baf5e.jpg)
+![poom](Game.jpg)
 
 ----
 
