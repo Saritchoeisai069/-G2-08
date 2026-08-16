@@ -2,7 +2,7 @@
 ###  ID: 69130500108
 <div align="center"> <img width="324" height="576" alt="" src="picture/jom.jpg" /></div>
 
-----
+
 
 ## *:school:จบมาจากโรงเรียนอะไร*
 - สุคนธีวิทย์
@@ -18,4 +18,4 @@
 
 ## *:mailbox:ช่องทางการติดต่อ*
 - GitHub : https://github.com/Helloworld-1412
-- Instagram : https://www.instagram.com/qwea7074?igsh=aDk0Y2VnOTl2NDl6&utm_source=qr
+- Instagram : https://www.instagram.com/qwea7074?igsh=aDk0Y2VnOTl2NDl6&utm_source=q
