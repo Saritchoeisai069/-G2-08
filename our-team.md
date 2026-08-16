@@ -1,21 +1,21 @@
-#  :pushpin:ชื่อ: ธรณ์เทพ สุญานนท์ (เสก)
-###  ID: 69130500088
-![sek](./sek.jpg)
+# :pushpin:ชื่อ: จ๋อม(นายปณชัย ตีรถะ)
+###  ID: 69130500108
+<div align="center"> <img width="324" height="576" alt="" src="picture/jom.jpg" /></div>
 
-----
 
-## :school:จบมาจากโรงเรียนอะไร
-- โรงเรียนนาหลวง
 
-## :balloon:งานอดิเรกคืออะไร
-- ฟังเพลง อ่านมังงะ
+## *:school:จบมาจากโรงเรียนอะไร*
+- สุคนธีวิทย์
 
-## *:medal_militar:คิดว่าsoft-skillของตัวเองคืออะไร
-- ทัศนะคติเชิงบวก
+## *:balloon:งานอดิเรกคืออะไร*
+- เล่นเกม🎮 , ฟังเพลง🎧
 
-## :earth_americas:มีเรื่องอะไรที่อยากลองทำสักครั้งในชีวิตไหม*
-- อยากลองโดดร่มสักครั้งในชีวิต ชอบอะไรที่มันตื่นเต้นสนุกและท้าทาย
+## *:medal_military:คิดว่าsoft-skillของตัวเองคืออะไร*
+- การปรับตัว ยืดหยุ่นเมื่อเจอเรื่องเปลี่ยนแปลงหรืออุปสรรค
 
-## :mailbox:ช่องทางติดต่อ
-- https://github.com/thorntep
-- https://www.instagram.com/que.su.111/
+## *:earth_americas:มีเรื่องอะไรที่อยากลองทำสักครั้งในชีวิตไหม*
+- อยากลองเรียน Scuba Diving 🤿🪸 เพื่อเอาชนะความกลัวตอนเด็ก
+
+## *:mailbox:ช่องทางการติดต่อ*
+- GitHub : https://github.com/Helloworld-1412
+- Instagram : https://www.instagram.com/qwea7074?igsh=aDk0Y2VnOTl2NDl6&utm_source=q
