@@ -1,9 +1,6 @@
 #  :pushpin:ชื่อ: ดีไซน์ (รวิสรา จรดล)
 ###  ID: 69130500096
 ![disign](14867.jpg)
-#  :pushpin:ชื่อ: เกม (นายดํารงวิทย์ ใคร่ครวญ)
-###  ID: 69130500083
-![Game](https://github.com/user-attachments/assets/5f3543ed-5d66-4489-96de-6831721f91b9)
 
 ----
 
@@ -22,6 +19,16 @@
 ## *:mailbox:ช่องทางติดต่อ*
 - Github: https://github.com/rawisaradesign
 - IG:https://www.instagram.com/designdrj?igsh=MWhqaHd4YjdpdGpuZw==
+
+----
+
+#  :pushpin:ชื่อ: เกม (นายดํารงวิทย์ ใคร่ครวญ)
+###  ID: 69130500083
+![Game](https://github.com/user-attachments/assets/5f3543ed-5d66-4489-96de-6831721f91b9)
+
+----
+
+## *:school:จบมาจากโรงเรียนอะไร*
 - บ่อพลอยรัชดาภิเษก
 
 ## *:balloon:งานอดิเรกคืออะไร*
