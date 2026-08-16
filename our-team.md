@@ -15,3 +15,7 @@
 
 ## :earth_americas: *มีเรื่องอะไรที่อยากลองทำสักครั้งในชีวิตไหม*
 - เที่ยวรอบโลกโดยไม่นั่งเครื่องบิน เพราะคิดว่าประสบการณ์ระหว่างการเดินทางที่ไม่ใช่แค่นั่งเครื่องบินจะมีความรู้สึกที่แตกต่างออกไป
+
+## :mailbox: *ช่องทางติดต่อ*
+- github:[@Sarit](https://github.com/Saritchoeisai069)
+- ig:[Poomjai](https://www.instagram.com/kagigaki/?utm_source=ig_web_button_share_sheet)
