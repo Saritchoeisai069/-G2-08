@@ -1,6 +1,6 @@
 # ชื่อ: เกม (นายดํารงวิทย์ ใคร่ครวญ)
 ###  ID: 69130500083
-<div align="cneter"> img </div>
+<div align="cneter"> <img width="324" height="576" alt="772791998_2846049809112621_5997654729788380496_n" src="https://github.com/user-attachments/assets/91892592-e31e-464b-be5c-a8a101f33427" /></div>
 
 ----
 
