@@ -93,24 +93,24 @@
 - https://www.instagram.com/que.su.111/
 
 ----
- :pushpin:ชื่อ: เศรษฐศาสตร์ ศิริโกมลสิงห์
+# :pushpin:ชื่อ: เศรษฐศาสตร์ ศิริโกมลสิงห์
  ID: 69130500067
 ![SAFE](picture/008D28C1-F3D8-4A00-BFA4-6336AFC2704A.jpeg)
 
 ￼
 
-:school:จบมาจากโรงเรียนอะไร
+## :school:จบมาจากโรงเรียนอะไร
 •  สารวิทยา
 
-:balloon:งานอดิเรกคืออะไร
+## :balloon:งานอดิเรกคืออะไร
 •  นอน,เล่นเกม
 
-*:medalmilitary:คิดว่าsoft-skillของตัวเองคืออะไร
+## :medalmilitary:คิดว่าsoft-skillของตัวเองคืออะไร
 •  problem solving, adaptability
 
-:earthamericas:มีเรื่องอะไรที่อยากลองทำสักครั้งในชีวิตไหม*
+## :earthamericas:มีเรื่องอะไรที่อยากลองทำสักครั้งในชีวิตไหม*
 •  อยากลองไปเข้าห้องน้ำทั่วโลก
 
-:mailbox:ช่องทางติดต่อ
+## :mailbox:ช่องทางติดต่อ
 - Github : https://l.instagram.com/?u=https%3A%2F%2Fgithub.com%2FSetthasat&e=AUCF2KmMf4tOhABAlEkZ1TzmiXHua7mqPTPoCfOVzj4mRjaB8SLlzxbNlmq2jwhPZUttGN-VOelL6JJVDZNgpCuQPEy2hnBfcu4xAgoVFkTmCRkyCOh31nJmLxx0
 - instagram : https://www.instagram.com/stthsxs_?igsh=MXhtbng0eXpjOWgxNA==
