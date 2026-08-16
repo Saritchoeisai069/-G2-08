@@ -19,11 +19,14 @@
 ## *:mailbox:ช่องทางติดต่อ*
 - Github: https://github.com/gamezxkx
 - IG: https://www.instagram.com/gxmxk._zx?igsh=MTJqZ3Bma3BlbjA4MA%3D%3D&utm_source=qr
+
+----
+
 # :pushpin:ชื่อ: จ๋อม(นายปณชัย ตีรถะ)
 ###  ID: 69130500108
 <div align="center"> <img width="324" height="576" alt="" src="picture/jom.jpg" /></div>
 
-
+----
 
 ## *:school:จบมาจากโรงเรียนอะไร*
 - สุคนธีวิทย์
@@ -40,6 +43,9 @@
 ## *:mailbox:ช่องทางการติดต่อ*
 - GitHub : https://github.com/Helloworld-1412
 - Instagram : https://www.instagram.com/qwea7074?igsh=aDk0Y2VnOTl2NDl6&utm_source=q
+
+----
+
 #  :pushpin:ชื่อ: เสก (เสธรณ์เทพ สุญานนท์)
 ###  ID: 69130500088
 ![sek](./picture/sek.jpg)
